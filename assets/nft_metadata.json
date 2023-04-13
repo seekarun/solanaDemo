@@ -6,28 +6,16 @@
   "external_url": "https://www.thevalley.com.au/ladbrokes-cox-plate-carnival",
   "attributes": [
     {
-      "trait_type": "collection-name",
-      "value": "Legends of Ladbrokes Cox Plate"
+      "trait_type": "Colour",
+      "value": "Black"
     },
     {
-      "trait_type": "mint-size",
-      "value": "11"
+      "trait_type": "Age",
+      "value": "12"
     },
     {
-      "trait_type": "sequence",
-      "value": "1"
-    },
-    {
-      "trait_type": "series",
-      "value": "Heroic"
-    },
-    {
-      "trait_type": "collection-size",
-      "value": "345"
-    },
-    {
-      "trait_type": "collection-release",
-      "value": "2022"
+      "trait_type": "position",
+      "value": "8"
     }
   ],
   "properties": {
