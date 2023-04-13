@@ -1,0 +1,52 @@
+{
+  "name": "Saintly 1996",
+  "symbol": "Cox Plate",
+  "description": "Known as the horse from heaven and bred and part-owned by legendary hall of fame trainer Bart Cummings, Saintly was one of the horses of a lifetime and a true favourite of ‘The Cups King’!",
+  "seller_fee_basis_points": 0,
+  "external_url": "https://www.thevalley.com.au/ladbrokes-cox-plate-carnival",
+  "attributes": [
+    {
+      "trait_type": "collection-name",
+      "value": "Legends of Ladbrokes Cox Plate"
+    },
+    {
+      "trait_type": "mint-size",
+      "value": "11"
+    },
+    {
+      "trait_type": "sequence",
+      "value": "1"
+    },
+    {
+      "trait_type": "series",
+      "value": "Heroic"
+    },
+    {
+      "trait_type": "collection-size",
+      "value": "345"
+    },
+    {
+      "trait_type": "collection-release",
+      "value": "2022"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://assets.thevalley.racingnft.com.au/saintly-1996-heroic-bronze-001-of-011/doubleshot.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://assets.thevalley.racingnft.com.au/saintly-1996-heroic-bronze-001-of-011/back.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://assets.thevalley.racingnft.com.au/saintly-1996-heroic-bronze-001-of-011/front.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "image": "https://assets.thevalley.racingnft.com.au/saintly-1996-heroic-bronze-001-of-011/front.png"
+}
