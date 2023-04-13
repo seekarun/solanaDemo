@@ -1,0 +1,9 @@
+solana-keygen grind --starts-with VIC:1
+solana config get 
+solana config set --keypair <file>
+solana airdrop 1
+
+spl-token create-token --decimals 1 <file>
+spl-token create-account <id>
+spl-token mint <id> 10 
+spl-token authorize <id> mint --disable
